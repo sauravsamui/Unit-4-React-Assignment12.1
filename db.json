@@ -1,0 +1,79 @@
+{"data": [
+    {   
+        "name" : "SmartPhone",
+        "image":"https://static.toiimg.com/thumb/msid-81249304,width-800,resizemode-4,imgsize-102461/share.jpg",
+        "price": 10000,
+        "id": 0
+    },
+    {   "image":"https://cdn.vox-cdn.com/thumbor/eTQhbaxDs6MYk3P1i5uMICW_iuM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/22908906/vpavic_211006_4796_0061.jpg",
+        "name" : "Watch",
+        "price" : 20000,
+        "id": 1
+    },
+    {
+        "name" : "Shirt",
+        "price" : 550,
+        "id": 2,
+        "image":"https://images.meesho.com/images/products/40208424/wr4y5_512.jpg"
+    },
+    {
+        "name" : "Pants",
+        "price" : 700,
+        "id": 3,
+        "image":"https://rukminim1.flixcart.com/image/332/398/kfoapow0-0/trouser/v/x/5/38-t-130-trouser-baleno-black-aa-ad-av-original-imafw2jugbuxmnq9.jpeg?q=50"
+    },
+    {
+        "name" : "Tee",
+        "price" : 300,
+        "id": 4,
+        "image":"https://m.media-amazon.com/images/I/61TGQnvu1RL._UL1080_.jpg"
+    },
+    {
+        "name" : "Saree",
+        "price" : 1000,
+        "id": 5,
+        "image":"https://ik.imagekit.io/thestylist/tt/pub/media_tt/catalog/product/f/a/FA-AWU-KDR-SA-1-CW-100_1.jpg"
+    },
+    {
+        "name" : "Shoes",
+        "price" : 800,
+        "id": 6,
+        "image":"https://cf.shopee.in/file/777329e8562655e8c09510097793064d"
+    },
+    {
+        "name" : "Slipper",
+        "price" : 400,
+        "id": 7,
+        "image":"https://n4.sdlcdn.com/imgs/k/e/0/PKKART-Orange-Slippers-SDL916194676-1-8d4f7.JPG"
+    },
+    {
+        "name" : "Joggers",
+        "price" : 1200,
+        "id": 8,
+        "image":"https://5.imimg.com/data5/SELLER/Default/2020/9/WK/NG/SA/83034352/hbcb8aad510c7446e94c32652597cb7c4h-500x500.jpg"
+    },
+    {
+        "name" : "Denim",
+        "price" : 900,
+        "id": 9,
+        "image":"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/1353004/2018/9/18/a8acac3a-077a-400f-a1c7-519215a5265e1537251707732-Roadster-Men-Blue-Denim-Washed-Casual-Shirt-5281537251705552-1.jpg"
+    },
+    {
+        "name" : "Laptop",
+        "price" : 40000,
+        "id": 10,
+        "image":"https://cdn.mos.cms.futurecdn.net/6t8Zh249QiFmVnkQdCCtHK.jpg"
+    },
+    {
+        "name" : "Tv",
+        "price" : 20000,
+        "id": 11,
+        "image":"https://www.cnet.com/a/img/resize/29d9efd7573f1d35a680addc370afb87e8f3d605/2021/04/14/58e9b86b-3c3a-4ff9-ac4d-1d1ab7bef323/002-lg-g1-oled-tv.jpg?auto=webp&fit=crop&height=528&width=940"
+    },
+    {
+        "name" : "Speaker",
+        "price" : 5000,
+        "id": 12,
+        "image":"https://cdn.mos.cms.futurecdn.net/MdZXmqC6MkVFcpbzunCLFT-1200-80.jpg"
+    }
+]}

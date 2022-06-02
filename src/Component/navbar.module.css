@@ -1,0 +1,16 @@
+#navbar{
+    justify-content: space-between;
+    
+    margin: auto;
+    width: 300px;
+    display: flex;
+    
+}
+.link{
+    text-decoration: none;
+    color: rgb(141, 253, 253);
+    font-size: large;
+}
+.link:hover{
+    color: white;
+}
