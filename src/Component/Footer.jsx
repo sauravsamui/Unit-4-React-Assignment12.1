@@ -74,11 +74,11 @@ const Footer = () => {
       </div>
       <div className={styles.thirdDiv}>
         <div className={styles.iconDiv}>
-          <img className={styles.img} src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670032.png?token=exp=1654360284~hmac=a45400a91ae085a12a49c92eb0d6a871" alt="facebook"/>
+          <img className={styles.img} src="https://cdn-icons-png.flaticon.com/512/145/145802.png" alt="facebook"/>
           <img className={styles.img} src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="twitter"/>
-          <img className={styles.img} src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670147.png?token=exp=1654360539~hmac=9a5dcd1f959e6394340bc9aed8cd41e6" alt="youtube"/>
-          <img className={styles.img} src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654360600~hmac=4d4882a289ff1fb274f5b87e2b8ec242" alt="instagram"/>
-          <img className={styles.img} src="https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1654360643~hmac=29f666c20c00e27e92e3883a873e7298" alt="linkedin"/>
+          <img className={styles.img} src="https://cdn-icons-png.flaticon.com/512/187/187209.png" alt="youtube"/>
+          <img className={styles.img} src="https://cdn-icons-png.flaticon.com/512/408/408758.png" alt="instagram"/>
+          <img className={styles.img} src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="linkedin"/>
           <img className={styles.img} src="https://cdn-icons-png.flaticon.com/128/145/145808.png" alt="pinterest"/>
         </div>
         <div className={styles.contactDiv}>
