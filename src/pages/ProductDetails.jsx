@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { useState } from 'react'
 import axios from "axios"
 import { useParams } from 'react-router-dom'
-import styles from "./productDetails.module.css"
+import styles from "../Component/productDetails.module.css"
 import { AuthContext } from '../Context/AuthContext'
 import { useContext } from 'react'
 const ProductDetails = () => {
@@ -34,7 +34,7 @@ let handleCart =()=>{
       <h1 className={styles.header}>Product Details</h1>
 
      <div className={styles.outerDiv}>
-       <img className={styles.imgg} src={pdetails.image}/>
+       <img className={styles.imgg} src={pdetails.image} alt=""/>
        <h2>{pdetails.name}</h2>
        <h4>{`₹${pdetails.price}`}</h4>
 

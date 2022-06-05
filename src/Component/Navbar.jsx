@@ -6,17 +6,22 @@ import { useContext } from 'react'
 const Navbar = () => {
   const {isAuth,toggle} = useContext(AuthContext)
   return (
-    <nav  className="navbar navbar-dark bg-dark">
+    <>
+    <div className={styles.offer}>🇦🇺 Free Australia wide Shipping - Flat Rate Global Shipping 🌏</div>
+    <nav id={styles.navbar1} className="navbar navbar">
         <div id={styles.navbar}>
       <Link className={styles.link} to={"/"}>Home</Link>
       <Link className={styles.link} to={"/products"}>Products</Link>
-      <button type="button" className="btn btn-outline-secondary"
+       <Link className={styles.link} to={"/aboutus"}>About US</Link>
+       <Link className={styles.link} to={"/faq"}>FAQ</Link>
+       <Link className={styles.link} to={"/contactUs"}>ContactUs</Link>
+      <button type="button" className="btn btn-danger"
        onClick={()=>{toggle()}}
       >{isAuth?"Logout":"Login"}</button>
       </div>
       
 </nav>
-
+</>
   )
 }
 

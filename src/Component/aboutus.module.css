@@ -1,0 +1,38 @@
+.firstDiv{
+    display: flex;
+    height: 350px;
+    margin: auto;
+    background-color: #f3fcf4;
+}
+.secondDiv{
+    margin-top: 150px;
+    
+   
+    display: flex;
+}
+.img{
+    width: 750px;
+    height: 450px;
+    margin-top: 60px;
+    margin-left: 80px;
+}
+.h6{
+    margin-top: 60px;
+   
+}
+.innerFirst{
+    text-align: left;
+    width: 38.5%;
+    margin-left: 90px;
+   
+}
+.p{
+    font-size: 25px;
+}
+.img1{
+    width: 600px;
+    margin-left: 50px;
+}
+.p1{
+    font-size: 22px;
+}

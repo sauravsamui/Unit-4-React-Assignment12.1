@@ -1,0 +1,64 @@
+.footerDiv{
+
+background-color:#002e25;
+margin-top: 40px;
+}
+.firstDiv{
+    display: flex;
+    width: 90%;
+    border-bottom:1px solid rgb(221, 205, 205);
+    padding: 20px;
+    margin: auto;
+}
+.innerFrstDiv{
+    display: flex;
+    width: 50%;
+    color: white;
+    justify-content: space-between;
+}
+.secondDiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+   
+}
+.frstSecondDiv{
+    text-align: justify;
+}
+.h5{
+    color:white;
+}
+.p{
+    margin-top: -8px;
+    color: rgb(230, 225, 225);
+}
+.t{
+    color: rgb(230, 225, 225);
+}
+.secondSecondDiv{
+    text-align: justify;
+    margin-top: 35px;
+}
+.icon{
+    color: white;
+    font-size: 30px;
+}
+.img{
+    width: 40px;
+    
+}
+.thirdDiv{
+    border-top:1px solid rgb(221, 205, 205);
+    padding: 30px 60px ;
+    display: flex;
+    justify-content: space-between;
+}
+.iconDiv{
+   
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.contactDiv{
+    color: white;
+}

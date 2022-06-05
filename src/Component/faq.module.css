@@ -1,0 +1,61 @@
+.firstDiv{
+    width: 60%;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 33px;
+    background-color: rgb(241, 213, 218);
+    padding: 15px;
+}
+.secondDiv{
+    display: flex;
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.question{
+    width: 30%;
+    text-align: left;
+    background-color: rgb(241, 213, 218);
+    padding: 15px;
+}
+.topic{
+    margin-top: 30px;
+}
+.topic1{
+    color: white;
+}
+.topic,.topic1{
+    cursor: pointer;
+}
+.details{
+    width: 65%;
+  
+}
+.detailsDiv{
+   
+    display:flex;
+    justify-content: space-between;
+    padding: 8.5px 0px;
+    border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+    align-items: center;
+}
+.btn1{
+   
+    background-color:white;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bold;
+    outline: none;
+    border: none;
+}
+.btn1:focus{
+    outline: none;
+}
+.detailsInnerDiv{
+    color: goldenrod;
+    text-align: left;
+    padding-top: 8px ;
+    padding-bottom: 8px;
+}

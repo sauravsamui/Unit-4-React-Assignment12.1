@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { useState } from 'react'
 import axios from "axios"
 import {Link} from "react-router-dom"
-import styles from "./products.module.css"
+import styles from "../Component/products.module.css"
 const Products = () => {
   const [products,setProducts] = useState([])
 
@@ -24,7 +24,7 @@ const Products = () => {
       <div key={el.id}>
         <Link to={`/productDetails/${el.id}`} >
          <div className={styles.item} key={el.id}>
-         <img className={styles.img} src={el.image}/> 
+         <img className={styles.img} src={el.image} alt=""/> 
          <h3>{el.name}</h3>
          <p>{`₹${el.price}`}</p>
       </div>
