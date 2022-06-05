@@ -1,3 +1,12 @@
+Deployed Link-
+on Heroku- https://router-cart.herokuapp.com/
+on vercel- https://assignment12-1.vercel.app/
+on Netlify- https://629cc83109b18d59c9cf77e7--routing-2.netlify.app/
+for Fetching data need to run the json server on port-8080 : json-server --watch db.json --port 8080
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
